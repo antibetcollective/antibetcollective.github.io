@@ -1,5 +1,5 @@
 ---
-title: "Anti Bet Collective: Magia em Harmonia com a Terra"
+title: "Anti Bet Collective: Nossa missão"
 permalink: "/antibetcollective.html"
 ---
 
