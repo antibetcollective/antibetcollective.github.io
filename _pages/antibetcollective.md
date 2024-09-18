@@ -1,6 +1,6 @@
 ---
 title: "Anti Bet Collective: Magia em Harmonia com a Terra"
-permalink: "/antibetollective.html"
+permalink: "/antibetcollective.html"
 ---
 
 
