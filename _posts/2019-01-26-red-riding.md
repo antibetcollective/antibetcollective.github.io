@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Riding Hood'
-author: luis
+author: antibetcollective
 categories: [Esportes]
 image: assets/images/3.jpg
 ---

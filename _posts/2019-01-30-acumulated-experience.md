@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Accumulated experience of social living'
-author: luis
+author: antibetcollective
 categories: [Tecnologia]
 image: assets/images/15.jpg
 ---

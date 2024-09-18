@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Press and education'
-author: luis
+author: antibetcollective
 categories: [Economia]
 image: assets/images/7.jpg
 ---

@@ -1,4 +1,4 @@
-current directory: /home/luishenriquetp/Downloads/mundana-theme-jekyll-master/vendor/bundle/ruby/2.7.0/gems/ffi-1.10.0/ext/ffi_c
+current directory: /home/antibetcollectivehenriquetp/Downloads/mundana-theme-jekyll-master/vendor/bundle/ruby/2.7.0/gems/ffi-1.10.0/ext/ffi_c
 /usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240722-156232-k2auwy.rb extconf.rb
 checking for ffi_call() in -lffi... yes
 checking for ffi_closure_alloc()... yes
@@ -13,10 +13,10 @@ checking for ffi_prep_cif_var()... yes
 creating extconf.h
 creating Makefile
 
-current directory: /home/luishenriquetp/Downloads/mundana-theme-jekyll-master/vendor/bundle/ruby/2.7.0/gems/ffi-1.10.0/ext/ffi_c
+current directory: /home/antibetcollectivehenriquetp/Downloads/mundana-theme-jekyll-master/vendor/bundle/ruby/2.7.0/gems/ffi-1.10.0/ext/ffi_c
 make "DESTDIR=" clean
 
-current directory: /home/luishenriquetp/Downloads/mundana-theme-jekyll-master/vendor/bundle/ruby/2.7.0/gems/ffi-1.10.0/ext/ffi_c
+current directory: /home/antibetcollectivehenriquetp/Downloads/mundana-theme-jekyll-master/vendor/bundle/ruby/2.7.0/gems/ffi-1.10.0/ext/ffi_c
 make "DESTDIR="
 compiling AbstractMemory.c
 compiling ArrayType.c
@@ -128,6 +128,6 @@ In file included from /usr/include/ruby-2.7.0/ruby.h:33,
 compiling ffi.c
 linking shared-object ffi_c.so
 
-current directory: /home/luishenriquetp/Downloads/mundana-theme-jekyll-master/vendor/bundle/ruby/2.7.0/gems/ffi-1.10.0/ext/ffi_c
+current directory: /home/antibetcollectivehenriquetp/Downloads/mundana-theme-jekyll-master/vendor/bundle/ruby/2.7.0/gems/ffi-1.10.0/ext/ffi_c
 make "DESTDIR=" install
 /usr/bin/install -c -m 0755 ffi_c.so ./.gem.20240722-156232-1l5mui4

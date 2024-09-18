@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Powerful things you can do with the Markdown editor'
-author: luis
+author: antibetcollective
 categories: [Política]
 image: assets/images/4.jpg
 tags: [featured]

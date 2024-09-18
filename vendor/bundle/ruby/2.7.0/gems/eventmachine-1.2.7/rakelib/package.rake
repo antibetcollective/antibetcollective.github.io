@@ -97,7 +97,7 @@ end
 
 Rake::Task[:clean].enhance [:clobber_package]
 
-# DevKit task following the example of Luis Lavena's test-ruby-c-extension
+# DevKit task following the example of antibetcollective Lavena's test-ruby-c-extension
 task :devkit do
   begin
     require "devkit"

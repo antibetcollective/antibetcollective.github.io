@@ -1,11 +1,11 @@
 # Site
-name: 'Bruxoativismo'
+name: 'Anti Bet Collective'
 description: 'Política, Economia, Esportes, Entretenimento, Vida, Saúde, Tecnologia'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'bruxoativismo'
-email: 'bruxoativismo@outlook.com'
+disqus: 'Anti Bet Collective'
+email: 'Anti Bet Collective@outlook.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 locale: pt-BR
 
@@ -20,13 +20,13 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-  luis:
-    name: luis
-    site: https://luishenriquetp.github.io
+  antibetcollective:
+    name: antibetcollective
+    site: https://antibetcollectivehenriquetp.github.io
     avatar: /assets/images/avatar1.jpg
-    bio: "Oi, eu sou o Luís, idealizador do projeto Bruxoativismo. Espero poder passar informações úteis e incentivar mais ações conscientes entre bruxos e pagãos!"
-    email: bruxoativismo@outlook.com
-    twitter: https://twitter.com/luishenriquetp
+    bio: "Oi, eu sou o Anti Bet Collective, idealizador do projeto Anti Bet Collective. Espero poder passar informações úteis e incentivar mais ações conscientes entre bruxos e pagãos!"
+    email: Anti Bet Collective@outlook.com
+    twitter: https://twitter.com/antibetcollectivehenriquetp
 
   jane:
     name: Jane
@@ -43,7 +43,7 @@ defaults:
       path: '_posts'
     values:
       layout: post
-      author: luis
+      author: antibetcollective
       avatar: /assets/images/avatar1.jpg
 
   # all pages

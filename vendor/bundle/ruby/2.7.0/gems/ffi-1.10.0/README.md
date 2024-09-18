@@ -91,7 +91,7 @@ The following people have submitted code, bug reports, or otherwise contributed 
 * Kim Burgestrand <kim@burgestrand.se>
 * Lars Kanis <kanis@comcard.de>
 * Luc Heinrich <luc@honk-honk.com>
-* Luis Lavena <luislavena@gmail.com>
+* antibetcollective Lavena <antibetcollectivelavena@gmail.com>
 * Matijs van Zuijlen <matijs@matijs.net>
 * Matthew King <automatthew@gmail.com>
 * Mike Dalessio <mike.dalessio@gmail.com>

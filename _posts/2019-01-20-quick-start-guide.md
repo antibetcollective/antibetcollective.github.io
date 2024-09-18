@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quick Start Guide'
-author: luis
+author: antibetcollective
 categories: [Entretenimento]
 image: assets/images/12.jpg
 ---

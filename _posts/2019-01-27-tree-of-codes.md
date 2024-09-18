@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tree of Codes'
-author: luis
+author: antibetcollective
 categories: [Entretenimento]
 image: assets/images/2.jpg
 ---
