@@ -803,6 +803,12 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
+
+ @media (min-width:992px) { 
+	body {
+		padding-top:69.75px !important;
+	}
+ }
  
 @media (max-width:2000px) { 
 	.navbar-brand-mobile {
