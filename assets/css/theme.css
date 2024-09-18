@@ -817,9 +817,6 @@ div.a2a_full_footer {display:none;}
  }
 
  @media (max-width: 992px) { 
-	body {
-		padding-top:69.75px !important;
-	}
 	.navbar-brand-mobile {
 		width:300px;
 		padding-left:13px;
@@ -828,9 +825,6 @@ div.a2a_full_footer {display:none;}
  }
 
  @media (max-width: 576px) {
-	body {
-		padding-top:69.75px !important;
-	}
 	.navbar-brand-mobile {
 		width:187.52px;
 		height:auto;
