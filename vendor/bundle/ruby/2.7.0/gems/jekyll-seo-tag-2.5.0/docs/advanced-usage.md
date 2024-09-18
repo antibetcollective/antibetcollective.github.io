@@ -75,7 +75,7 @@ The following options can be set for any particular page. While the default opti
 * `seo`
   * `name` - If the name of the thing that the page represents is different from the page title. (i.e.: "Frank's Café" vs "Welcome to Frank's Café")
   * `type` - The type of things that the page represents. This must be a [Schema.org type](http://schema.org/docs/schemas.html), and will probably usually be something like [`BlogPosting`](http://schema.org/BlogPosting), [`NewsArticle`](http://schema.org/NewsArticle), [`Person`](http://schema.org/Person), [`Organization`](http://schema.org/Organization), etc.
-  * `links` - An array of other URLs that represent the same thing that this page represents. For instance, Jane's bio page might include links to Jane's GitHub and Twitter profiles.
+  * `links` - An array of other URLs that represent the same thing that this page represents. For instance, antibetcollective's bio page might include links to antibetcollective's GitHub and Twitter profiles.
 
 ### Customizing image output
 
