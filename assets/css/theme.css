@@ -116,7 +116,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-secondary {
-	color:#7832e2;
+	color:#264F0B;
 	border-color:transparent;
 }
 .btn-link.btn-success {
@@ -337,7 +337,7 @@ a.text-dark:hover {
 	fill:#264F0B !important;
 }
 .bg-secondary {
-	fill:#7832e2 !important;
+	fill:#264F0B !important;
 }
 .bg-success {
 	fill:#264F0B !important;
@@ -448,8 +448,8 @@ a.text-dark:hover {
 }
 .alert-secondary {
 	color:#fff;
-	background-color:#7832e2;
-	border-color:#7832e2;
+	background-color:#264F0B;
+	border-color:#264F0B;
 }
 .alert-secondary hr {
 	border-top-color:#6a1fdb;
