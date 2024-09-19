@@ -3,6 +3,7 @@ layout: post
 title: 'TSE Declara Ilegalidade das Apostas Eleitorais'
 categories: [Notícias]
 image: assets/images/home.jpg
+tags: [featured]
 ---
 
 O Tribunal Superior Eleitoral (TSE) reconheceu recentemente a ilegalidade das chamadas “bets eleitorais”, plataformas que promovem apostas em candidatos durante as eleições. A decisão surge em um momento de crescente popularidade dos sites de apostas, levantando preocupações sobre os impactos que esse tipo de prática pode ter na integridade do processo democrático.
