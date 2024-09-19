@@ -3,7 +3,7 @@ layout: post
 title: 'O Impacto das Medidas do Governo Contra o Vício em Apostas'
 author: antibetcollective
 categories: [Notícias]
-image: assets/images/home.jpg
+image: assets/images/2.jpg
 ---
 
 Recentemente, o governo brasileiro anunciou novas medidas para combater o vício em apostas, uma questão que tem ganhado atenção crescente devido ao aumento de casos relacionados. Segundo a [BBC](https://www.bbc.com/portuguese/articles/cy4l4p8dy3lo), a proposta inclui uma série de iniciativas para enfrentar o problema, que vão desde a regulamentação mais rígida das plataformas de apostas até a implementação de programas de apoio para os afetados pelo vício.

@@ -3,7 +3,7 @@ layout: post
 title: 'Preocupação com o "Jogo do Tigrinho" e a Saúde Mental'
 author: antibetcollective
 categories: [Notícias]
-image: assets/images/home.jpg
+image: assets/images/3.jpg
 ---
 
 Recentemente, o Brasil tem enfrentado uma crescente preocupação com os efeitos nocivos de certos jogos online na saúde mental dos jovens. Um exemplo alarmante é o "Jogo do Tigrinho", que tem sido associado a trágicas ocorrências, incluindo casos de suicídio.

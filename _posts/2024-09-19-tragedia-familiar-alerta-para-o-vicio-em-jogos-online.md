@@ -3,7 +3,7 @@ layout: post
 title: 'Tragédia Familiar Alerta para o Vício em Jogos Online'
 author: antibetcollective
 categories: [Notícias]
-image: assets/images/home.jpg
+image: assets/images/4.jpg
 tags: [featured]
 ---
 
