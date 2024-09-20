@@ -7,17 +7,19 @@ O **Anti Bet collective** é um movimento dedicado a combater as casas de aposta
 
 #### Documentos
 
-- [Manifesto](/manifesto.html)
-- [Plano de Ação](/plano-de-acao.html)
-- [Código de Conduta](/codigo-de-conduta.html)
-- [Estatuto/Constituição](/estatuto.html)
-- [Política de Comunicação](/politica-de-comunicacao.html)
-- [Guia de Mobilização](/guia-de-mobilizacao.html)
-- [Guia de Conscientização Pública](/conscientizacao-publica.html)
-- [Política de Parcerias](/politica-de-parcerias.html)
-- [Relatórios de Atividades](/relatorios.html)
-- [Transparência Financeira](/transparencia-financeira.html)
-- [Política de Privacidade](/politica-de-privacidade.html)
-- [FAQ](/faq.html)
+<ul>
+  <li><a href="/manifesto.html" target="_blank">Manifesto</a></li>
+  <li><a href="/plano-de-acao.html" target="_blank">Plano de Ação</a></li>
+  <li><a href="/codigo-de-conduta.html" target="_blank">Código de Conduta</a></li>
+  <li><a href="/estatuto.html" target="_blank">Estatuto/Constituição</a></li>
+  <li><a href="/politica-de-comunicacao.html" target="_blank">Política de Comunicação</a></li>
+  <li><a href="/guia-de-mobilizacao.html" target="_blank">Guia de Mobilização</a></li>
+  <li><a href="/conscientizacao-publica.html" target="_blank">Guia de Conscientização Pública</a></li>
+  <li><a href="/politica-de-parcerias.html" target="_blank">Política de Parcerias</a></li>
+  <li><a href="/relatorios.html" target="_blank">Relatórios de Atividades</a></li>
+  <li><a href="/transparencia-financeira.html" target="_blank">Transparência Financeira</a></li>
+  <li><a href="/politica-de-privacidade.html" target="_blank">Política de Privacidade</a></li>
+  <li><a href="/faq.html" target="_blank">FAQ</a></li>
+</ul>
 
 Se você tiver alguma dúvida ou precisar de mais informações, não hesite em nos contatar.
