@@ -834,5 +834,8 @@ div.a2a_full_footer {display:none;}
 	.desktop-footer-brand {
 		display:none;
 	}
+	.mobile-footer-brand {
+		display:block;
+	}
 }
 	  
