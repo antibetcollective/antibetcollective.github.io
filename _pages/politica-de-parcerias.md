@@ -2,7 +2,6 @@
 title: "Política de Parcerias"
 permalink: "/politica-de-parcerias.html"
 ---
-### 7. **Política de Parcerias**
 
 #### Objetivo:
 Definir claramente os critérios para o **Anti Bet collective** se associar a outras organizações, grupos ou indivíduos, garantindo que todas as colaborações estejam alinhadas com os valores e princípios do coletivo. Este documento também estabelecerá diretrizes para a aceitação de patrocínios e a relação com partidos políticos, caso haja envolvimento.
