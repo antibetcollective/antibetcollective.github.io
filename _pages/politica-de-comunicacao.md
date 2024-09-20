@@ -4,12 +4,12 @@ permalink: "/politica-de-comunicacao.html"
 ---
 
 
-## **Objetivo**
+#### **Objetivo**
 Esta política tem como finalidade regular como o Anti Bet collective se comunica com o público, a mídia e parceiros, garantindo que a mensagem do coletivo seja transmitida de forma clara, coerente e em linha com os valores do movimento. Além disso, define quem tem autoridade para falar em nome do coletivo e quais são as diretrizes para publicações e interações externas.
 
 ---
 
-## **1. Diretrizes para Publicações nas Redes Sociais**
+#### **1. Diretrizes para Publicações nas Redes Sociais**
 
 As redes sociais são uma ferramenta essencial para o coletivo alcançar novos apoiadores, disseminar informações e mobilizar o público. As diretrizes abaixo devem ser seguidas para manter a consistência e a ética nas publicações:
 
@@ -30,7 +30,7 @@ As redes sociais são uma ferramenta essencial para o coletivo alcançar novos a
 
 ---
 
-## **2. Quem Pode Falar em Nome do Coletivo**
+#### **2. Quem Pode Falar em Nome do Coletivo**
 
 Para evitar mal-entendidos e garantir que a mensagem do coletivo seja clara e uniforme, apenas membros designados podem se comunicar oficialmente em nome do **Anti Bet collective**. Estes são os responsáveis:
 
@@ -43,7 +43,7 @@ Para evitar mal-entendidos e garantir que a mensagem do coletivo seja clara e un
 
 ---
 
-## **3. Lidar com a Mídia**
+#### **3. Lidar com a Mídia**
 
 A interação com a mídia é fundamental para amplificar a mensagem do coletivo. No entanto, é importante que esta relação seja bem gerida para evitar distorções ou interpretações incorretas.
 
@@ -58,7 +58,7 @@ A interação com a mídia é fundamental para amplificar a mensagem do coletivo
 
 ---
 
-## **4. Estratégias para Manter uma Comunicação Transparente e Assertiva**
+#### **4. Estratégias para Manter uma Comunicação Transparente e Assertiva**
 
 A transparência é essencial para garantir a credibilidade e o apoio público ao coletivo. As estratégias abaixo visam assegurar que o **Anti Bet collective** se comunique de maneira honesta, direta e eficaz:
 
@@ -76,6 +76,6 @@ A transparência é essencial para garantir a credibilidade e o apoio público a
 
 ---
 
-## **5. Atualização da Política de Comunicação**
+#### **5. Atualização da Política de Comunicação**
 
 Essa política deve ser revista periodicamente para garantir que continue alinhada com os objetivos e o crescimento do coletivo. Qualquer alteração será discutida entre os membros, e a versão atualizada será publicada para garantir a transparência do processo.

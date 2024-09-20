@@ -8,7 +8,7 @@ O **Anti Bet Collective** é uma organização de caráter ativista dedicada a c
 
 ---
 
-## Capítulo I: Estrutura Organizacional
+#### Capítulo I: Estrutura Organizacional
 
 **Artigo 1º - Natureza do Coletivo**  
 O Anti Bet Collective é um coletivo horizontal, onde as decisões são tomadas de forma colaborativa e participativa. Não há uma hierarquia fixa de lideranças, sendo todos os membros considerados iguais em termos de poder de decisão.
@@ -23,7 +23,7 @@ As Reuniões Gerais ocorrem pelo menos uma vez por mês e são o fórum principa
 
 ---
 
-## Capítulo II: Processo de Tomada de Decisão
+#### Capítulo II: Processo de Tomada de Decisão
 
 **Artigo 4º - Método de Decisão**  
 1. O coletivo adota o modelo de **consenso** como principal forma de decisão. Todos os membros são incentivados a buscar consenso nas deliberações, promovendo discussões que integrem diferentes perspectivas.
@@ -35,7 +35,7 @@ Para que uma decisão seja válida, é necessário que pelo menos 50% dos membro
 
 ---
 
-## Capítulo III: Membros
+#### Capítulo III: Membros
 
 **Artigo 6º - Critérios de Adesão ao Coletivo**  
 1. Qualquer pessoa que compartilhe dos princípios e objetivos do Anti Bet Collective pode se tornar membro.
@@ -57,7 +57,7 @@ Para que uma decisão seja válida, é necessário que pelo menos 50% dos membro
 
 ---
 
-## Capítulo IV: Transparência Financeira
+#### Capítulo IV: Transparência Financeira
 
 **Artigo 9º - Arrecadação de Fundos**  
 O Anti Bet Collective pode arrecadar fundos por meio de doações voluntárias, campanhas de financiamento coletivo ou eventos. Toda arrecadação deve seguir os princípios éticos do coletivo, não aceitando contribuições de empresas ou entidades ligadas a jogos de azar ou apostas.
@@ -77,7 +77,7 @@ A cada três meses, o grupo de Responsáveis pela Transparência Financeira deve
 
 ---
 
-## Capítulo V: Disposições Gerais
+#### Capítulo V: Disposições Gerais
 
 **Artigo 12º - Alterações no Estatuto**  
 Este estatuto pode ser alterado mediante aprovação de consenso em Reunião Geral. Caso o consenso não seja atingido, as alterações podem ser votadas e aprovadas por ⅔ dos membros presentes.

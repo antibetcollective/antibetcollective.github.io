@@ -4,13 +4,13 @@ permalink: "/relatorios.html"
 ---
 
 
-## Relatório Periódico de Atividades
+#### Relatório Periódico de Atividades
 
 **Período: [Inserir Data de Início] a [Inserir Data de Término]**
 
 ---
 
-## 1. Resumo das Campanhas e Ações Realizadas
+#### 1. Resumo das Campanhas e Ações Realizadas
 
 - **Campanha de Conscientização sobre Apostas Online**
   - **Data**: [Inserir Data]
@@ -28,7 +28,7 @@ permalink: "/relatorios.html"
 
 ---
 
-## 2. Resultados Alcançados
+#### 2. Resultados Alcançados
 
 - **Campanha de Conscientização**
   - **Alcance Total**: [Inserir Número de Visualizações/Impressões]
@@ -45,7 +45,7 @@ permalink: "/relatorios.html"
 
 ---
 
-## 3. Reflexões sobre Desafios e Sucessos
+#### 3. Reflexões sobre Desafios e Sucessos
 
 - **Desafios Enfrentados**
   - **Engajamento do Público**: Apesar do alcance, a interação do público foi abaixo do esperado. Estratégias para aumentar o engajamento serão revisadas.
@@ -57,7 +57,7 @@ permalink: "/relatorios.html"
 
 ---
 
-## 4. Próximos Passos
+#### 4. Próximos Passos
 
 - **Reavaliação das Estratégias de Engajamento**: Criar novas iniciativas para aumentar a interação com o público.
 - **Preparação para Novas Ações**: Planejar uma nova campanha focada na educação financeira como uma alternativa às apostas.
@@ -65,7 +65,7 @@ permalink: "/relatorios.html"
 
 ---
 
-## 5. Conclusão
+#### 5. Conclusão
 
 Este relatório reflete os esforços e resultados do **Anti Bet collective** no período mencionado. Continuaremos a documentar nossas atividades e a buscar formas eficazes de engajamento e conscientização sobre os impactos negativos das casas de apostas online.
 

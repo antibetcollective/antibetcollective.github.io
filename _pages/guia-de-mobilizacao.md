@@ -8,7 +8,7 @@ Este guia tem como objetivo fornecer orientações práticas para que membros e 
 
 ---
 
-## **1. Participação em Protestos**
+#### **1. Participação em Protestos**
 
 Os protestos são uma das formas mais visíveis de mobilização. Para garantir que esses eventos sejam organizados de maneira eficaz e segura, siga estas orientações:
 
@@ -31,7 +31,7 @@ Os protestos são uma das formas mais visíveis de mobilização. Para garantir 
 
 ---
 
-## **2. Campanhas Digitais**
+#### **2. Campanhas Digitais**
 
 O ativismo online é uma ferramenta poderosa para disseminar as ideias do coletivo e atingir um público amplo.
 
@@ -54,7 +54,7 @@ O ativismo online é uma ferramenta poderosa para disseminar as ideias do coleti
 
 ---
 
-## **3. Ações Diretas**
+#### **3. Ações Diretas**
 
 Ações diretas podem gerar grande impacto e chamar a atenção da mídia e do público, mas precisam ser bem planejadas.
 
@@ -69,7 +69,7 @@ Ações diretas podem gerar grande impacto e chamar a atenção da mídia e do p
 
 ---
 
-## **4. Ferramentas e Táticas de Mobilização**
+#### **4. Ferramentas e Táticas de Mobilização**
 
 Para garantir a eficiência das ações do coletivo, algumas ferramentas e táticas são essenciais:
 
@@ -81,7 +81,7 @@ Para garantir a eficiência das ações do coletivo, algumas ferramentas e táti
 
 ---
 
-## **5. Segurança Digital e Pessoal**
+#### **5. Segurança Digital e Pessoal**
 
 A segurança dos membros e apoiadores é fundamental tanto nas ações públicas quanto nas campanhas digitais.
 

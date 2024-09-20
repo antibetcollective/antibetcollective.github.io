@@ -8,7 +8,7 @@ Este documento tem como finalidade garantir que as finanças do Anti Bet Collect
 
 ---
 
-## 1. Arrecadação de Fundos
+#### 1. Arrecadação de Fundos
 
 O Anti Bet Collective pode arrecadar fundos através de diversas fontes, incluindo, mas não se limitando a:
 
@@ -27,7 +27,7 @@ Os fundos arrecadados são utilizados para:
 
 ---
 
-## 2. Prestação de Contas Pública Periódica
+#### 2. Prestação de Contas Pública Periódica
 
 Para garantir a transparência, o Anti Bet Collective se compromete a:
 
@@ -37,7 +37,7 @@ Para garantir a transparência, o Anti Bet Collective se compromete a:
 
 ---
 
-## 3. Definição de Orçamentos para Campanhas e Atividades
+#### 3. Definição de Orçamentos para Campanhas e Atividades
 
 Para cada campanha ou atividade que o Anti Bet Collective planeja realizar, um orçamento detalhado será elaborado e aprovado pelos membros. Este orçamento incluirá:
 
@@ -49,6 +49,6 @@ Os orçamentos serão revisados e ajustados conforme necessário, e quaisquer al
 
 ---
 
-### Conclusão
+#### Conclusão
 
 O Anti Bet Collective se compromete com a transparência financeira como um pilar fundamental de sua operação. Acreditamos que a clareza nas finanças fortalece nossa causa e nos aproxima de nossos membros e apoiadores. Estamos abertos a sugestões e críticas construtivas para melhorar continuamente nossa gestão financeira.
