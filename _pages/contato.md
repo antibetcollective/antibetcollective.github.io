@@ -3,6 +3,13 @@ title: "Contato"
 permalink: "/contato.html"
 ---
 
+#### **Nossos canais**
+
+<ul>
+  <li><a href="https://discord.gg/MHDphAqa" target="_blank">Discord</a></li>
+  <li><a href="https://www.instagram.com/antibetcollective" target="_blank">Instagram</a></li>
+</ul>
+
 <form action="https://formspree.io/{{site.email}}" method="POST">    
 <p class="mb-4">Por favor, mande sua mensagem pra nós do {{site.name}}. Vamos responder o mais breve possível!</p>
 <div class="form-group row">
