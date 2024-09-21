@@ -1,10 +1,10 @@
 ---
-title: "Guia de Conscientização Pública do Anti Bet collective"
+title: "Guia de Conscientização Pública do Anti Bet Collective"
 permalink: "/conscientizacao-publica.html"
 ---
 
 #### **Introdução**
-O **Anti Bet collective** acredita que a educação e a conscientização são fundamentais para combater os efeitos prejudiciais das casas de apostas esportivas online. Este guia foi criado para fornecer informações claras e acessíveis sobre os perigos dessas plataformas, como elas funcionam, e o impacto que podem ter na vida financeira e emocional dos indivíduos e suas famílias.
+O **Anti Bet Collective** acredita que a educação e a conscientização são fundamentais para combater os efeitos prejudiciais das casas de apostas esportivas online. Este guia foi criado para fornecer informações claras e acessíveis sobre os perigos dessas plataformas, como elas funcionam, e o impacto que podem ter na vida financeira e emocional dos indivíduos e suas famílias.
 
 Este documento será usado para educar o público por meio de campanhas, eventos comunitários, e materiais de mídia social, buscando engajar diretamente as pessoas, especialmente os grupos mais vulneráveis, em um diálogo aberto sobre os riscos das apostas online.
 
@@ -80,9 +80,9 @@ Reconhecer que você ou alguém que você conhece pode ter um problema com apost
 - **Projetos Criativos**: Pintura, escrita, música e outros hobbies criativos podem ser uma excelente maneira de canalizar energia e foco.
 - **Voluntariado**: Contribuir para sua comunidade pode ajudar a dar propósito e criar uma rede de apoio emocional positiva.
 
-#### **Seção 7: Como se Envolver com o Anti Bet collective**
+#### **Seção 7: Como se Envolver com o Anti Bet Collective**
 
-O **Anti Bet collective** oferece várias formas de envolvimento para aqueles que querem lutar contra a exploração das casas de apostas online. Desde a participação em eventos e protestos até a divulgação de conteúdo nas redes sociais, existem muitas maneiras de se juntar à nossa causa.
+O **Anti Bet Collective** oferece várias formas de envolvimento para aqueles que querem lutar contra a exploração das casas de apostas online. Desde a participação em eventos e protestos até a divulgação de conteúdo nas redes sociais, existem muitas maneiras de se juntar à nossa causa.
 
 #### **Como Participar**:
 - **Divulgue nossa mensagem**: Compartilhe nossas campanhas e materiais de conscientização em suas redes sociais.
@@ -92,6 +92,6 @@ O **Anti Bet collective** oferece várias formas de envolvimento para aqueles qu
 
 #### **Conclusão**
 
-O **Anti Bet collective** está comprometido com a proteção das pessoas vulneráveis ao vício em apostas e à exploração financeira. Através deste guia de conscientização, esperamos educar o público sobre os riscos das casas de apostas online e capacitar indivíduos a tomar decisões informadas e saudáveis. Juntos, podemos combater essa indústria predatória e criar uma sociedade mais justa e equilibrada.
+O **Anti Bet Collective** está comprometido com a proteção das pessoas vulneráveis ao vício em apostas e à exploração financeira. Através deste guia de conscientização, esperamos educar o público sobre os riscos das casas de apostas online e capacitar indivíduos a tomar decisões informadas e saudáveis. Juntos, podemos combater essa indústria predatória e criar uma sociedade mais justa e equilibrada.
 
 ---

@@ -4,12 +4,12 @@ permalink: "/manifesto.html"
 ---
 
 #### **Introdução**
-Vivemos em uma era em que o acesso à internet e às plataformas digitais transformou a maneira como interagimos com o mundo. Em meio a essas transformações, um fenômeno preocupante vem se consolidando: a proliferação das casas de apostas esportivas online. O **Anti Bet collective** surge como uma resposta direta a essa ameaça crescente, que explora a vulnerabilidade financeira e emocional de milhões de pessoas.
+Vivemos em uma era em que o acesso à internet e às plataformas digitais transformou a maneira como interagimos com o mundo. Em meio a essas transformações, um fenômeno preocupante vem se consolidando: a proliferação das casas de apostas esportivas online. O **Anti Bet Collective** surge como uma resposta direta a essa ameaça crescente, que explora a vulnerabilidade financeira e emocional de milhões de pessoas.
 
 As casas de apostas esportivas online vendem a ilusão de sucesso e prosperidade rápida, enquanto, na realidade, criam um ciclo de dependência e perda. Governos e empresas que deveriam proteger seus cidadãos e clientes, muitas vezes, permitem ou até incentivam a proliferação dessas plataformas, priorizando o lucro em detrimento do bem-estar social.
 
 #### **Quem Somos**
-Somos o **Anti Bet collective**, um coletivo de indivíduos comprometidos com a luta contra a exploração promovida pelas casas de apostas esportivas online. Nossa missão é conscientizar, educar e mobilizar a sociedade para que as apostas não sejam vistas como um passatempo inofensivo, mas sim como um problema estrutural que afeta diretamente a saúde financeira e emocional de milhões de pessoas.
+Somos o **Anti Bet Collective**, um coletivo de indivíduos comprometidos com a luta contra a exploração promovida pelas casas de apostas esportivas online. Nossa missão é conscientizar, educar e mobilizar a sociedade para que as apostas não sejam vistas como um passatempo inofensivo, mas sim como um problema estrutural que afeta diretamente a saúde financeira e emocional de milhões de pessoas.
 
 Nosso coletivo é formado por ativistas, economistas, psicólogos, profissionais de direito, jogadores afetados e cidadãos comuns que se recusam a assistir passivamente a este processo destrutivo. Somos guiados por um compromisso inabalável de justiça social e lutamos para garantir que todos tenham uma vida financeira e emocional equilibrada e saudável.
 
@@ -55,7 +55,7 @@ Estudos indicam que a maioria dos apostadores perde dinheiro, e muitos acabam en
    Somos contra a associação de apostas online com o esporte. Defendemos o fim dos patrocínios de casas de apostas em eventos e equipes esportivas, eliminando a normalização do jogo nas culturas esportivas.
 
 #### **Chamado à Ação**
-Convocamos todos que compartilham de nossa visão a se unirem ao **Anti Bet collective**. Precisamos de vozes diversas para construir uma frente ampla e combativa contra as casas de apostas online. Junte-se a nós em nossa missão de proteger o futuro das próximas gerações, combatendo a exploração e promovendo a justiça.
+Convocamos todos que compartilham de nossa visão a se unirem ao **Anti Bet Collective**. Precisamos de vozes diversas para construir uma frente ampla e combativa contra as casas de apostas online. Junte-se a nós em nossa missão de proteger o futuro das próximas gerações, combatendo a exploração e promovendo a justiça.
 
 #### **Como Participar**
 Você pode se engajar de várias maneiras:

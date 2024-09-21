@@ -4,7 +4,7 @@ permalink: "/plano-de-acao.html"
 ---
 
 #### **Introdução**
-O **Anti Bet collective** reconhece que a luta contra as casas de apostas esportivas online exige uma estratégia clara e organizada. Nosso plano de ação detalha as iniciativas que adotaremos para conscientizar o público, pressionar por regulamentações mais rigorosas e fornecer apoio aos afetados por essa indústria predatória. Este documento servirá como um guia para as atividades do coletivo, garantindo que cada etapa de nossa missão esteja direcionada a alcançar mudanças concretas.
+O **Anti Bet Collective** reconhece que a luta contra as casas de apostas esportivas online exige uma estratégia clara e organizada. Nosso plano de ação detalha as iniciativas que adotaremos para conscientizar o público, pressionar por regulamentações mais rigorosas e fornecer apoio aos afetados por essa indústria predatória. Este documento servirá como um guia para as atividades do coletivo, garantindo que cada etapa de nossa missão esteja direcionada a alcançar mudanças concretas.
 
 #### **Objetivos de Curto, Médio e Longo Prazo**
 

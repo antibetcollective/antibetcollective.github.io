@@ -3,7 +3,7 @@ title: "Organização"
 permalink: "/organizacao.html"
 ---
 
-O **Anti Bet collective** é um movimento dedicado a combater as casas de apostas esportivas online e seus impactos negativos na sociedade. Nesta seção, você encontrará documentos essenciais que descrevem nossa missão, ações planejadas, e diretrizes para membros e apoiadores. Acreditamos que a conscientização e a mobilização são fundamentais para promover mudanças significativas. Explore os links abaixo para conhecer melhor nosso trabalho e como você pode se envolver.
+O **Anti Bet Collective** é um movimento dedicado a combater as casas de apostas esportivas online e seus impactos negativos na sociedade. Nesta seção, você encontrará documentos essenciais que descrevem nossa missão, ações planejadas, e diretrizes para membros e apoiadores. Acreditamos que a conscientização e a mobilização são fundamentais para promover mudanças significativas. Explore os links abaixo para conhecer melhor nosso trabalho e como você pode se envolver.
 
 #### Documentos
 

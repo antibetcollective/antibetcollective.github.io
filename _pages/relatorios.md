@@ -67,7 +67,7 @@ permalink: "/relatorios.html"
 
 #### 5. Conclusão
 
-Este relatório reflete os esforços e resultados do **Anti Bet collective** no período mencionado. Continuaremos a documentar nossas atividades e a buscar formas eficazes de engajamento e conscientização sobre os impactos negativos das casas de apostas online.
+Este relatório reflete os esforços e resultados do **Anti Bet Collective** no período mencionado. Continuaremos a documentar nossas atividades e a buscar formas eficazes de engajamento e conscientização sobre os impactos negativos das casas de apostas online.
 
 **Próximo Relatório Programado**: [Inserir Data do Próximo Relatório] 
 

@@ -5,7 +5,7 @@ permalink: "/politica-de-comunicacao.html"
 
 
 #### **Objetivo**
-Esta política tem como finalidade regular como o Anti Bet collective se comunica com o público, a mídia e parceiros, garantindo que a mensagem do coletivo seja transmitida de forma clara, coerente e em linha com os valores do movimento. Além disso, define quem tem autoridade para falar em nome do coletivo e quais são as diretrizes para publicações e interações externas.
+Esta política tem como finalidade regular como o Anti Bet Collective se comunica com o público, a mídia e parceiros, garantindo que a mensagem do coletivo seja transmitida de forma clara, coerente e em linha com os valores do movimento. Além disso, define quem tem autoridade para falar em nome do coletivo e quais são as diretrizes para publicações e interações externas.
 
 ---
 
@@ -32,7 +32,7 @@ As redes sociais são uma ferramenta essencial para o coletivo alcançar novos a
 
 #### **2. Quem Pode Falar em Nome do Coletivo**
 
-Para evitar mal-entendidos e garantir que a mensagem do coletivo seja clara e uniforme, apenas membros designados podem se comunicar oficialmente em nome do **Anti Bet collective**. Estes são os responsáveis:
+Para evitar mal-entendidos e garantir que a mensagem do coletivo seja clara e uniforme, apenas membros designados podem se comunicar oficialmente em nome do **Anti Bet Collective**. Estes são os responsáveis:
 
 - **Porta-vozes Oficiais**: O coletivo deve eleger uma equipe de porta-vozes, responsáveis por interagir com a mídia e em eventos públicos. Estes porta-vozes devem ser previamente treinados para abordar as questões centrais da luta contra as casas de apostas online.
   
@@ -60,7 +60,7 @@ A interação com a mídia é fundamental para amplificar a mensagem do coletivo
 
 #### **4. Estratégias para Manter uma Comunicação Transparente e Assertiva**
 
-A transparência é essencial para garantir a credibilidade e o apoio público ao coletivo. As estratégias abaixo visam assegurar que o **Anti Bet collective** se comunique de maneira honesta, direta e eficaz:
+A transparência é essencial para garantir a credibilidade e o apoio público ao coletivo. As estratégias abaixo visam assegurar que o **Anti Bet Collective** se comunique de maneira honesta, direta e eficaz:
 
 - **Comunicação Interna**: Garantir que todos os membros do coletivo estejam cientes das ações e da estratégia de comunicação antes de qualquer campanha ou mobilização. A comunicação interna deve ser feita de maneira ágil, utilizando ferramentas como e-mails, grupos de mensagens e reuniões periódicas.
   

@@ -4,7 +4,7 @@ permalink: "/guia-de-mobilizacao.html"
 ---
 
 **Objetivo**:  
-Este guia tem como objetivo fornecer orientações práticas para que membros e apoiadores do **Anti Bet collective** possam se engajar ativamente nas ações do coletivo. O foco é garantir que a mobilização seja eficaz, segura e alinhada aos princípios do grupo.
+Este guia tem como objetivo fornecer orientações práticas para que membros e apoiadores do **Anti Bet Collective** possam se engajar ativamente nas ações do coletivo. O foco é garantir que a mobilização seja eficaz, segura e alinhada aos princípios do grupo.
 
 ---
 
@@ -19,7 +19,7 @@ Os protestos são uma das formas mais visíveis de mobilização. Para garantir 
   
 - **Mensagens Claras**:
   - Crie faixas, cartazes e slogans que reflitam claramente os valores e objetivos do coletivo.
-  - Utilize cores e símbolos que identifiquem o **Anti Bet collective** para aumentar a visibilidade e coesão.
+  - Utilize cores e símbolos que identifiquem o **Anti Bet Collective** para aumentar a visibilidade e coesão.
 
 - **Conduta durante o Protesto**:
   - Mantenha a manifestação pacífica e organizada. Evite confrontos com autoridades ou o público.

@@ -4,10 +4,10 @@ permalink: "/codigo-de-conduta.html"
 ---
 
 #### **Objetivo**
-Este Código de Conduta visa estabelecer regras claras e transparentes sobre o comportamento esperado dos membros do **Anti Bet collective**. O documento tem como foco promover um ambiente seguro, inclusivo e colaborativo, tanto nas interações internas quanto nas ações públicas do coletivo. Ele também aborda como lidar com conflitos e desentendimentos, sempre pautado pelo respeito e ética.
+Este Código de Conduta visa estabelecer regras claras e transparentes sobre o comportamento esperado dos membros do **Anti Bet Collective**. O documento tem como foco promover um ambiente seguro, inclusivo e colaborativo, tanto nas interações internas quanto nas ações públicas do coletivo. Ele também aborda como lidar com conflitos e desentendimentos, sempre pautado pelo respeito e ética.
 
 #### **1. Princípios de Comportamento**
-Os membros do **Anti Bet collective** devem agir de acordo com os seguintes princípios fundamentais em todas as suas interações:
+Os membros do **Anti Bet Collective** devem agir de acordo com os seguintes princípios fundamentais em todas as suas interações:
 
 #### **Respeito Mútuo**
 - Todos os membros devem tratar uns aos outros com respeito, independentemente de idade, gênero, orientação sexual, etnia, religião, posição social ou qualquer outra característica pessoal.
@@ -30,7 +30,7 @@ Como parte de nosso compromisso com a justiça social e a defesa contra os danos
 - Preconceitos de qualquer tipo, como sexismo, racismo, homofobia, transfobia, xenofobia, ou qualquer outra forma de discriminação, são absolutamente proibidos.
 
 #### **3. Posições sobre Discursos de Ódio e Intolerância**
-O **Anti Bet collective** rejeita completamente qualquer forma de discurso de ódio e ataques pessoais. Nosso compromisso com uma sociedade mais justa se estende a garantir que todas as vozes sejam ouvidas, e que todos sejam tratados com dignidade.
+O **Anti Bet Collective** rejeita completamente qualquer forma de discurso de ódio e ataques pessoais. Nosso compromisso com uma sociedade mais justa se estende a garantir que todas as vozes sejam ouvidas, e que todos sejam tratados com dignidade.
 
 #### **Posicionamento em Relação a Discursos de Ódio**
 - **Tolerância Zero**: Não serão aceitos comportamentos ou discursos de ódio, incluindo intimidações, assédio, ameaças ou qualquer outro tipo de violência verbal ou simbólica.
@@ -41,7 +41,7 @@ O **Anti Bet collective** rejeita completamente qualquer forma de discurso de ó
 - Ofensas, insultos, provocações e bullying serão abordados com medidas corretivas imediatas, podendo resultar na suspensão ou exclusão do membro envolvido.
 
 #### **4. Resolução de Conflitos**
-Conflitos e desentendimentos podem surgir em qualquer grupo, e o **Anti Bet collective** tem procedimentos claros para lidar com essas situações de forma justa e respeitosa.
+Conflitos e desentendimentos podem surgir em qualquer grupo, e o **Anti Bet Collective** tem procedimentos claros para lidar com essas situações de forma justa e respeitosa.
 
 #### **Como Lidar com Desentendimentos**
 - **Diálogo Aberto**: A primeira abordagem para qualquer conflito deve ser o diálogo direto entre as partes envolvidas, em um ambiente neutro e mediado, se necessário, por um membro de confiança do coletivo.
@@ -60,4 +60,4 @@ A violação deste Código de Conduta pode ter consequências sérias. Estas ser
 - **Exclusão Permanente do Coletivo**: Para comportamentos que representem uma ameaça à segurança e aos valores do grupo, ou em casos de reincidência.
 
 #### **Conclusão**
-Este Código de Conduta é uma parte essencial da estrutura do **Anti Bet collective**, garantindo que nosso coletivo seja um espaço seguro, inclusivo e justo para todos os seus membros e para aqueles com quem interagimos. Pedimos a todos os participantes que leiam e sigam este documento em suas ações cotidianas, para que possamos construir juntos uma luta ética e responsável contra as casas de apostas online.
+Este Código de Conduta é uma parte essencial da estrutura do **Anti Bet Collective**, garantindo que nosso coletivo seja um espaço seguro, inclusivo e justo para todos os seus membros e para aqueles com quem interagimos. Pedimos a todos os participantes que leiam e sigam este documento em suas ações cotidianas, para que possamos construir juntos uma luta ética e responsável contra as casas de apostas online.
