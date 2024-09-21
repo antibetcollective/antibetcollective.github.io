@@ -823,15 +823,6 @@ div.a2a_full_footer {display:none;}
 	.navbar-brand-mobile {
 		width:300px;
 	}
-	
- }
-
- @media (max-width: 576px) {
-	.navbar-brand-mobile {
-		width:187.52px;
-		height:auto;
-		padding-left:0;
-	}
 	.desktop-footer-brand {
 		display:none;
 	}
@@ -841,6 +832,16 @@ div.a2a_full_footer {display:none;}
 	.mobile-footer-brand img  {
 		display:inline-block;
 	}
+	
+ }
+
+ @media (max-width: 576px) {
+	.navbar-brand-mobile {
+		width:187.52px;
+		height:auto;
+		padding-left:0;
+	}
+	
 	.social-header {
 		margin-left:0;
 	}	
