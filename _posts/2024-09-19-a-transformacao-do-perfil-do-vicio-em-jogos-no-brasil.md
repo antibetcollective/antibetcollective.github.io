@@ -3,7 +3,7 @@ layout: post
 title: 'A Transformação do Perfil do Vício em Jogos no Brasil'
 author: antibetcollective
 categories: [Notícias]
-image: assets/images/home.jpg
+image: assets/images/10.jpg
 ---
 
 O cenário do vício em jogos no Brasil tem passado por mudanças significativas, impulsionadas principalmente pelo crescimento exponencial das apostas online. De acordo com um artigo do [NeoFeed](https://neofeed.com.br/finde/como-as-bets-mudaram-o-perfil-do-vicio-em-jogo-no-brasil/), essas mudanças refletem uma nova realidade para aqueles que se encontram imersos nesse vício.

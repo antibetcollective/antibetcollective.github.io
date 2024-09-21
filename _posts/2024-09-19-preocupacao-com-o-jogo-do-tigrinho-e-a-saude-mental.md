@@ -3,7 +3,7 @@ layout: post
 title: 'Preocupação com o Jogo do Tigrinho e a Saúde Mental'
 author: antibetcollective
 categories: [Notícias]
-image: assets/images/home.jpg
+image: assets/images/03.jpg
 tags: [featured]
 ---
 

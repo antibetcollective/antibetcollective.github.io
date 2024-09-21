@@ -3,7 +3,7 @@ layout: post
 title: 'Governo toma medidas para frear bets'
 author: antibetcollective
 categories: [Notícias]
-image: assets/images/home.jpg
+image: assets/images/01.jpg
 tags: [sticky]
 ---
 

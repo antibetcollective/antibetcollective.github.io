@@ -3,7 +3,7 @@ layout: post
 title: 'O Impacto das Medidas do Governo Contra o Vício em Apostas'
 author: antibetcollective
 categories: [Notícias]
-image: assets/images/home.jpg
+image: assets/images/04.jpg
 tags: [featured]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Investigação Aponta Uso de Conta de Filho Adolescente por Deolane para Lavar Dinheiro de Apostas'
 categories: [Notícias]
-image: assets/images/home.jpg
+image: assets/images/06.jpg
 ---
 
 Uma investigação recente revelou que a influenciadora e advogada Deolane Bezerra teria utilizado a conta bancária de seu filho adolescente para lavar dinheiro proveniente de apostas esportivas. O esquema, segundo as autoridades, estaria ligado a movimentações financeiras de plataformas de apostas.

@@ -2,7 +2,7 @@
 layout: post
 title: 'TSE Declara Ilegalidade das Apostas Eleitorais'
 categories: [Notícias]
-image: assets/images/home.jpg
+image: assets/images/01.jpg
 tags: [featured]
 ---
 

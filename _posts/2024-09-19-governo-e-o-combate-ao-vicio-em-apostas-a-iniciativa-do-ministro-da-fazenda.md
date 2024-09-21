@@ -3,7 +3,7 @@ layout: post
 title: 'Governo e o Combate ao Vício em Apostas: A Iniciativa do Ministro da Fazenda'
 author: antibetcollective
 categories: [Notícias]
-image: assets/images/home.jpg
+image: assets/images/07.jpg
 ---
 
 Recentemente, o Ministro da Fazenda, Fernando Haddad, destacou uma crescente preocupação do governo com o vício em apostas, especialmente em relação aos sites de apostas online. Em uma abordagem multifacetada, o governo está tomando medidas para enfrentar os problemas associados ao comportamento compulsivo em relação às apostas, que têm afetado um número crescente de brasileiros.

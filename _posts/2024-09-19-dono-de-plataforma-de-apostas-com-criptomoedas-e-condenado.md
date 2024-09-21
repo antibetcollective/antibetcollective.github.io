@@ -3,7 +3,7 @@ layout: post
 title: 'Dono de Plataforma de Apostas com Criptomoedas é Condenado'
 author: antibetcollective
 categories: [Notícias]
-image: assets/images/home.jpg
+image: assets/images/09.jpg
 tags: [featured]
 ---
 
