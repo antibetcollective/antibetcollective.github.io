@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'antibetcollective'
-email: 'Anti Bet Collective@outlook.com'
+email: 'antibetcollective@outlook.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 locale: pt-BR
 
@@ -22,7 +22,7 @@ plugins:
 authors:
   antibetcollective:
     name: antibetcollective
-    site: https://antibetcollective.com.br
+    site: https://antibetcollective.github.io
     avatar: /assets/images/avatar1.jpg
     bio: "Oi, nós somos o Anti Bet Collective. Esperamos poder passar informações úteis e incentivar mais ações conscientes."
     email: antibetcollective@outlook.com
