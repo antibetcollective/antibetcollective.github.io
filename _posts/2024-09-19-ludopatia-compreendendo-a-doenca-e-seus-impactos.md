@@ -3,7 +3,7 @@ layout: post
 title: 'Ludopatia: Compreendendo a Doença e Seus Impactos'
 author: antibetcollective
 categories: [Notícias]
-image: assets/images/05.jpg
+image: assets/images/03.jpg
 ---
 
 Recentemente, o termo "ludopatia" ganhou destaque nas discussões sobre saúde mental. A ludopatia, também conhecida como vício em jogos de azar, é uma condição que afeta um número crescente de pessoas, trazendo consequências significativas para a vida pessoal e social dos indivíduos afetados.
